@@ -1,3 +1,13 @@
+nav {
+     background-color: #EBEBEB;
+}
+
+main {
+     background-color: #484847;
+     font-family: 'Monomaniac One', sans-serif;
+     align-items: center;
+}
+
 h1 {
      font-family: 'Monofett', monospace;
      color: #000;
@@ -7,4 +17,12 @@ h1 {
      height: 20px;
      width: 20px;
      background-color: #ED254E;
+}
+
+.search {
+     width: 100px;
+     height: 15px;
+     background-color: #EBEBEB;
+     padding: 20px;
+     color: #747272;
 }
