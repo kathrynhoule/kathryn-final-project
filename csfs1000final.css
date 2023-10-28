@@ -81,13 +81,52 @@ h1 {
      border-radius: 20%;
 }
 
+#hamburger-menu {
+     padding-bottom:1em;
+     padding-right:1em;
+}
+
+#arrow {
+     padding-left:1em;
+}
+
+#singles {
+     font-family: Monofett;
+     color: #3C3C39;
+     background-color: #D9D9D9;
+     border-radius: 15px 15px 15px 15px;
+}
+
+#packs {
+     font-family: Monofett;
+     color: #3C3C39;
+     background-color: #D9D9D9;
+     border-radius: 15px 15px 15px 15px;
+}
+
+#boxes {
+     font-family: Monofett;
+     color: #3C3C39;
+     background-color: #D9D9D9;
+     border-radius: 15px 15px 15px 15px;
+}
+
+#all {
+     font-family: Monofett;
+     color: #3C3C39;
+     background-color: #D9D9D9;
+     border-radius: 15px 15px 15px 15px;
+}
+
 .search {
      background-color: #EBEBEB;
-     margin-left: 33%;
-     margin-right:33%;
-     width:50%;
+     width:60%;
+     margin-left:20%;
+     margin-right:20%;
      color: #747272;
      border-radius: 15px 15px 15px 15px;
+     padding-left:1em;
+     font-family: Monomaniac One;
 }
 
 ul {
@@ -108,12 +147,31 @@ li {
 
 #sublist {
      padding-top:1em;
+     width:50%;
+     margin-left:25%;
+     margin-right:25%;
 }
  ​
  main { 
      display: flex;
      align-items: center;
      padding: 3em 5em 5em 5em;
+ }
+
+ #lastlist {
+     width:50%;
+     margin-left:25%;
+     margin-right:25%;
+     font-family: Monomaniac One;
+     color: #EBEBEB;
+ }
+
+ .dropdown {
+     display:flex;
+     align-items: center;
+     justify-content: center;
+     color:#EBEBEB;
+     
  }
 
 
@@ -144,8 +202,16 @@ div.gallery {
    .responsive-image {
      max-width: 100%;
    }
+
+   .cell {
+     text-align: justify;
+     font-family: Monomaniac One;
+     color: #EBEBEB;
+   }
+
    .cell img {
      display: block;
+     border-radius: 5px 5px 5px 5px;
    }
    @media screen and (min-width: 600px){
      .grid {
@@ -154,26 +220,24 @@ div.gallery {
        flex-direction: row;
      }
      .cell {
-       width:50%;
+       width:25%;
+       margin: 1rem;
      }
    }
    @media screen and (min-width: 1000px){
      .cell {
-       width:calc (100%/3);
+       width:calc (100%/4);
      }
-   }
-   .cell {
-     margin: 1rem;
    }
    
    @media screen and (min-width: 600px){
      .cell {
-       width: calc(50% - 2rem);
+       width: calc(33.3333% - 2rem);
      }
    }
    @media screen and (min-width: 1000px){
      .cell{
-       width: calc(33.3333% - 2rem);
+       width: calc(25% - 2rem);
      }
    }
 
@@ -185,7 +249,32 @@ div.gallery {
 }
 
 @media only screen and (max-width: 1200px) {
-     ul {
+     #mainlist {
           display: none;
      }
 }
+
+@media only screen and (max-width: 1037px) {
+     #lastlist {
+          font-size: 20px;
+     }
+}
+
+@media only screen and (max-width: 990px) {
+     #sublist {
+          display:none;
+     }
+}
+
+@media only screen and (max-width: 990px) {
+     #lastlist {
+          display:none;
+     }
+}
+
+@media only screen and (min-width: 991px) {
+     .dropdown {
+          display: none;
+     }
+}
+
