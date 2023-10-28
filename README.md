@@ -5,7 +5,7 @@ Final project for csfs1000 course.
 This is my project for csfs1000, with three designs for different displays. The design is for a trading card seller website. 
 
 ## Figma Design ##
-https://www.figma.com/file/na26O3KbVPdKlFRu5WyUKz/Second-Cards-3-Display-Designs?type=design&node-id=0%3A1&mode=design&t=pLnfkI4g0TyoGgYO-1
+https://www.figma.com/file/na26O3KbVPdKlFRu5WyUKz/Second-Cards-3-plus-1-alt-Display-Designs?type=design&node-id=0%3A1&mode=dev
 
 ## User Stories ##
 ### Main User ###
