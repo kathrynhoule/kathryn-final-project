@@ -9,7 +9,7 @@ https://www.figma.com/file/na26O3KbVPdKlFRu5WyUKz/Second-Cards-3-Display-Designs
 
 ## User Stories ##
 ### Main User ###
-As a trading card collector, I want to be able to see what products are available for purchase for certain franchises and when they came out. 
+As a trading card collector, I want to be able to see what products are available for purchase for specific franchises so that I can take advantage of purchasing opportunities to acquire rare, favourable, or old collectibles before they become unavailable.
 
 ### Admin ###
-As a seller, I want to be able to understand what products are most appealing to buyers, based on things like series and year of release, and allow people to submit requests for things they'd like to see.
+As a seller, I want the ability to view analytics on user requests and past user purchases, so that I can effectively identify trending cards and proactively offer products to meet user demand.
