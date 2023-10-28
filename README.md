@@ -1,7 +1,7 @@
 # kathryn-final-project
 Final project for csfs1000 course.
 
-## About the app ##
+## About the App ##
 This is my project for csfs1000, with three designs for different displays. The design is for a trading card seller website. 
 
 ## Figma Design ##
