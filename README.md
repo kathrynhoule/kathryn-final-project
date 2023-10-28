@@ -11,7 +11,9 @@ https://www.figma.com/file/na26O3KbVPdKlFRu5WyUKz/Second-Cards-3-plus-1-alt-Disp
 
 ## User Stories ##
 ### Main User ###
-As a trading card collector, I want to be able to see what products are available for purchase for specific franchises so that I can take advantage of purchasing opportunities to acquire rare, favourable, or old collectibles before they become unavailable.
+As a trading card collector, I want to be able to see what products are available for purchase from specific franchises so that I can take advantage of purchasing opportunities to acquire rare, favourable, or old collectibles that are difficult to locate, and request products that I may be unable to purchase elsewhere.
+
+As a TCG player, I want to be able to see and filter new market products as they become available, so that I can stay up-to-date with the current cards and purchase new cards in order to stay ahead of the curve. 
 
 ### Admin ###
 As a seller, I want the ability to view analytics on user requests and past user purchases, so that I can effectively identify trending cards and proactively offer products to meet user demand.
