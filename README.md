@@ -2,7 +2,9 @@
 Final project for csfs1000 course.
 
 ## About the App ##
-This is my project for csfs1000, with three designs for different displays. The design is for a trading card seller website. 
+This website is designed to be an e-commerce site for users to purchase trading cards from different franchises and for admin to be able to track purchases and receive product requests from users. The intention is to have the website be a visually appealing shop where users can search for cards by keywords or by name and filter the results through various options to help users find what they are looking for easily. Currently, the only page set up is the basic shop page where users can view the different cards on the site. The site currently has a few display cards set up to show an example of what the gallery will look like in the future.
+
+In the future, the goal is to continue updating the gallery to and create actual search functionality on the site. In addition, the "request" tab will have a form function where users can request products they are looking for and want to become available on the site.
 
 ## Figma Design ##
 https://www.figma.com/file/na26O3KbVPdKlFRu5WyUKz/Second-Cards-3-plus-1-alt-Display-Designs?type=design&node-id=0%3A1&mode=dev
